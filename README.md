@@ -136,7 +136,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin git@github.com:<you>/screenfetch-fix.git
+git remote add origin git@github.com:GeneratorEVil/screenfetch-fix.git
 git push -u origin main
 ```
 
