@@ -1,4 +1,4 @@
-# screefetch-fix
+# screenfetch-fix
 
 Fix screen recording on GNOME/Wayland when the laptop lid is closed and an
 external monitor is connected.
@@ -57,8 +57,8 @@ closed.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/screefetch-fix.git
-cd screefetch-fix
+git clone https://github.com/<you>/screenfetch-fix.git
+cd screenfetch-fix
 sudo ./install.sh
 sudo reboot
 ```
@@ -136,7 +136,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin git@github.com:<you>/screefetch-fix.git
+git remote add origin git@github.com:<you>/screenfetch-fix.git
 git push -u origin main
 ```
 
