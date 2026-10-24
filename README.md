@@ -129,16 +129,6 @@ grep -H . /sys/class/input/event*/device/name
 If your lid device has a different name, adjust the `ATTRS{name}` match in
 `99-ignore-lid-switch.rules`.
 
-## Publishing
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin git@github.com:GeneratorEVil/screenfetch-fix.git
-git push -u origin main
-```
 
 ## Русский (кратко)
 
