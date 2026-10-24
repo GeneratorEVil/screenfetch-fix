@@ -57,7 +57,7 @@ closed.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/screenfetch-fix.git
+git clone https://github.com/GeneratorEVil/screenfetch-fix.git
 cd screenfetch-fix
 sudo ./install.sh
 sudo reboot
